@@ -1,0 +1,7 @@
+C:\Users\masta\source\repos\WpfApp1\WpfApp1\bin\Debug\WpfApp12.exe.config
+C:\Users\masta\source\repos\WpfApp1\WpfApp1\bin\Debug\WpfApp12.exe
+C:\Users\masta\source\repos\WpfApp1\WpfApp1\bin\Debug\WpfApp12.pdb
+C:\Users\masta\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp12.csprojAssemblyReference.cache
+C:\Users\masta\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp12.csproj.CoreCompileInputs.cache
+C:\Users\masta\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp12.exe
+C:\Users\masta\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp12.pdb
